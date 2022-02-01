@@ -116,3 +116,5 @@ c) Wie ist dieser Plot zu interpretieren?
 ![](figures/Blatt6_10_MRDAG.jpg)
 
 
+## exercise
+Hello git
